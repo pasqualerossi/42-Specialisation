@@ -1,4 +1,4 @@
-# Mobile Development :vibration_mode:
+# :vibration_mode: Mobile Development
 
 ## :iphone: Swift iOS Piscine
 
