@@ -4,7 +4,7 @@
 
 - :iphone: Swift iOS Piscine - Day 00 to Day 09, including Rush00 and 01 - https://github.com/pasqualerossi/Piscine-Swift-iOS
 
-2. Then follows with Mobile Development Projects:
+2. Then follows with the following Mobile Development Projects:
 
 - :iphone: Mobile Development Projects (Camagru, Hangouts, HyperTube, Matcha, Music Room, Swifty Companion and Swifty Proteins) - https://github.com/pasqualerossi/42-Mobile-Dev-Projects
 
@@ -34,4 +34,4 @@ These Mobile Development Projects can be created in the following Languages and 
 
 ## :bell: Note
 
-The Mobile Development Projects can also be completed as a Web Application, Web Mobile application or PWA (Progressive Web Apps).
+The Mobile Development Projects can also be completed as a Web Application, Web Mobile application or PWA (Progressive Web App).
