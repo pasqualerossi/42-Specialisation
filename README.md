@@ -1,12 +1,8 @@
 # 42 Mobile Development
 
-1. The Mobile Development Specialisation at 42, begins with a Piscine to teach you the Fundamentals of Mobile Development in Swift/xCode:
+1. :iphone: Swift iOS Piscine - Day 00 to Day 09, including Rush00 and 01 - https://github.com/pasqualerossi/Piscine-Swift-iOS
 
-- :iphone: Swift iOS Piscine - Day 00 to Day 09, including Rush00 and 01 - https://github.com/pasqualerossi/Piscine-Swift-iOS
-
-2. Then follows with the following Mobile Development Projects:
-
-- :iphone: Mobile Development Projects (Camagru, Hangouts, HyperTube, Matcha, Music Room, Swifty Companion and Swifty Proteins) - https://github.com/pasqualerossi/42-Mobile-Dev-Projects
+2. :iphone: Mobile Development Projects (Camagru, Hangouts, HyperTube, Matcha, Music Room, Swifty Companion and Swifty Proteins) - https://github.com/pasqualerossi/42-Mobile-Dev-Projects
 
 <br>
 
