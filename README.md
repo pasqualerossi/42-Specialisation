@@ -1,8 +1,16 @@
-# 42 Mobile Development
+# 42 Mobile Development Info
 
-1. :iphone: Swift iOS Piscine - Day 00 to Day 09, including Rush00 and 01 - https://github.com/pasqualerossi/Piscine-Swift-iOS
+The 42 Mobile Development Specialisation begins with a Piscine in the programming language of Swift using the xCode program. Then follows with projects in Mobile Development. 
 
-2. :iphone: Mobile Development Projects (Camagru, Hangouts, HyperTube, Matcha, Music Room, Swifty Companion and Swifty Proteins) - https://github.com/pasqualerossi/42-Mobile-Dev-Projects
+# 42 Mobile Development Curriculum 
+
+1. :iphone: Swift iOS Piscine 
+
+Day 00 to Day 09, including Rush00 and 01 - https://github.com/pasqualerossi/Piscine-Swift-iOS
+
+2. :iphone: Mobile Development Projects 
+
+(Camagru, Hangouts, HyperTube, Matcha, Music Room, Swifty Companion and Swifty Proteins) - https://github.com/pasqualerossi/42-Mobile-Dev-Projects
 
 <br>
 
