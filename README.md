@@ -30,4 +30,4 @@ These Mobile Development Projects can be created in the following Languages and 
 
 ## :bell: Note
 
-The Mobile Development Projects can also be completed as a Web Application, Web Mobile application or PWA (Progressive Web App).
+The Mobile Development Projects can also be completed as a Web Application or PWA (Progressive Web App).
