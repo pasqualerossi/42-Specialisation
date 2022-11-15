@@ -50,7 +50,7 @@ The Mobile Development Projects can also be completed as a Web Application or PW
 
 <br>
 
-These Web Development Projects can be created in the following Languages and IDE's:
+The Web Development Projects can be created in the following Languages and IDE's:
 
 ### Programming Languages
 
