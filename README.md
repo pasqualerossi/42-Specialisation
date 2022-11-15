@@ -46,6 +46,8 @@ These Mobile Development Projects can be created in the following Languages and 
 
 The Mobile Development Projects can also be completed as a Web Application or PWA (Progressive Web App).
 
+<br>
+
 # 42 Web Development Curriculum
 
 <br>
