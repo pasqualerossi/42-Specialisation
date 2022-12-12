@@ -1,8 +1,8 @@
-# 42 Mobile Development
+# 42 Mobile Development :calling:
 
-1. :iphone: Swift iOS Piscine - https://github.com/pasqualerossi/Piscine-Swift-iOS
+1. Swift iOS Piscine - https://github.com/pasqualerossi/Piscine-Swift-iOS
 
-2. :iphone: Mobile Development Projects - https://github.com/pasqualerossi/42-Mobile-Dev-Projects
+2. Mobile Development Projects - https://github.com/pasqualerossi/42-Mobile-Dev-Projects
 
 <br>
 
