@@ -27,6 +27,8 @@
 - iOS SDK
 - Xcode
 
+Also can build for the following platforms - iPadOS, macOS, watchOS, and tvOS
+
 <br>
 
 ## Android
@@ -38,6 +40,8 @@
 - Android SDK
 - Android Studio
 
+Also can build for the following platforms - Android Wear, Android TV, and Android Auto
+
 <br>
 
 ## Cross-Platform 
@@ -48,3 +52,5 @@
 - Flutter UI
 - Flutter SDK
 - Flutter
+
+Can be build for the following platforms - Android, iOS and Embedded Devices, Web and Desktop Applications
