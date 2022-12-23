@@ -6,4 +6,45 @@
 
 <br>
 
-More Info Coming Soon..
+# Mobile Development Overview 📱
+
+1️⃣  Programming Language
+
+2️⃣  UI Framework
+
+3️⃣  SDK (Software Development Kit)
+
+4️⃣  IDE (Integrated Development Environment)
+
+<br>
+
+## Apple
+
+[![My Skills](https://skillicons.dev/icons?i=swift)](https://skillicons.dev) 
+
+- Swift
+- SwiftUI
+- iOS SDK
+- Xcode
+
+<br>
+
+## Android
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev) 
+
+- Kotlin
+- Jetpack Compose
+- Android SDK
+- Android Studio
+
+<br>
+
+## Cross-Platform 
+
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev) 
+
+- Dart
+- Flutter UI
+- Flutter SDK
+- Flutter
