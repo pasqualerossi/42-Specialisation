@@ -70,10 +70,8 @@ Can build for Android, Android Wear, Android TV, and Android Auto
 
 <br>
 
-### Flutter
-
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev) 
-
+## Flutter
+[![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev) 
 
 1️⃣ Dart
 
@@ -85,7 +83,7 @@ Can build for Android, Android Wear, Android TV, and Android Auto
 
 <br>
 
-### React Native
+## React Native
 
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) 
 
