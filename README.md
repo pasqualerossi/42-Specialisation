@@ -31,6 +31,9 @@
 <div align="center">
 <h1><strong>Native Mobile Development</strong></h1>
 </div>
+<div align="center">
+Built and designed specifically for it's own mobile platform.
+</div>
 
 ## Apple  
 
@@ -70,6 +73,9 @@ Can build for Android, Android Wear, Android TV, and Android Auto
 
 <div align="center">
 <h1><strong>Cross-Platform Mobile Development</strong></h1>
+</div>
+<div align="center">
+Using a single codebase to build applications that can be run on multiple platforms. 
 </div>
 
 <br>
