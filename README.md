@@ -54,9 +54,14 @@ Can build for Android, Android Wear, Android TV, and Android Auto
 
 <br>
 
-## Cross-Platform (Both iOS and Android on 1 Codebase)
+## Cross-Platform (Android and iOS on 1 Codebase)
+
+<br>
+
+### Flutter
 
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev) 
+
 
 1️⃣ Dart
 
@@ -66,4 +71,16 @@ Can build for Android, Android Wear, Android TV, and Android Auto
 
 4️⃣ Flutter
 
-Can build for Android, iOS and Embedded Devices and Web and Desktop Applications
+<br>
+
+### React Native
+
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) 
+
+1️⃣ JavaScript
+
+2️⃣ React
+
+3️⃣ React Native SDK
+
+4️⃣ Visual Studio Code
