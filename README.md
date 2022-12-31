@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-"Globally, 99% of Mobile Devices are iOS and Android Phones, as of November 2022, 28% on iOS and 71% on Android."
+"Globally, 99% of Mobile Devices are iOS and Android Phones, as of November 2022 - 28% on iOS and 71% on Android."
 </div>
 <br>
 
