@@ -32,7 +32,7 @@
 <h1><strong>Native Mobile Development</strong></h1>
 </div>
 
-## Apple
+## Apple  
 
 [![My Skills](https://skillicons.dev/icons?i=swift)](https://skillicons.dev) 
 
@@ -43,6 +43,8 @@
 3️⃣ iOS SDK
 
 4️⃣ Xcode
+
+<br>
 
 Can build for iPhoneOS, iPadOS, macOS, watchOS, and tvOS
 
@@ -59,6 +61,8 @@ Can build for iPhoneOS, iPadOS, macOS, watchOS, and tvOS
 3️⃣ Android SDK
 
 4️⃣ Android Studio
+
+<br>
 
 Can build for Android, Android Wear, Android TV, and Android Auto
 
