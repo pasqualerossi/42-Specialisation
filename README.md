@@ -1,4 +1,6 @@
-# 42 Mobile Development :calling:
+<div align="center">
+<h1><strong>42 Mobile Development</strong></h1>
+</div>
 
 1. Swift Piscine - https://github.com/pasqualerossi/Piscine-Swift-iOS
 
@@ -6,10 +8,14 @@
 
 <br>
 
-# Mobile Development Overview 📱
 
+<div align="center">
+<h1><strong>Mobile Development Overview</strong></h1>
+</div>
+
+<div align="center">
 "Globally, 99% of Mobile Devices are iOS and Android Phones, as of November 2022 - 28% on iOS and 71% on Android"
-
+</div>
 <br>
 
 1️⃣  Programming Language
@@ -21,6 +27,10 @@
 4️⃣  IDE (Integrated Development Environment)
 
 <br>
+
+<div align="center">
+<h1><strong>Native Mobile Development</strong></h1>
+</div>
 
 ## Apple
 
@@ -54,7 +64,9 @@ Can build for Android, Android Wear, Android TV, and Android Auto
 
 <br>
 
-## Cross-Platform (Android and iOS on 1 Codebase)
+<div align="center">
+<h1><strong>Cross-Platform Mobile Development</strong></h1>
+</div>
 
 <br>
 
