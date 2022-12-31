@@ -8,6 +8,10 @@
 
 # Mobile Development Overview 📱
 
+"Globally, 99% of Mobile Devices are iOS and Android Phones, as of November 2022 - 28% on iOS and 71% on Android"
+
+<br>
+
 1️⃣  Programming Language
 
 2️⃣  UI Framework
@@ -22,12 +26,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=swift)](https://skillicons.dev) 
 
-- Swift
-- SwiftUI
-- iOS SDK
-- Xcode
+1️⃣ Swift
 
-Also can build for the following platforms - iPadOS, macOS, watchOS, and tvOS
+2️⃣ SwiftUI
+
+3️⃣ iOS SDK
+
+4️⃣ Xcode
+
+Can build for iPhoneOS, iPadOS, macOS, watchOS, and tvOS
 
 <br>
 
@@ -35,22 +42,28 @@ Also can build for the following platforms - iPadOS, macOS, watchOS, and tvOS
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev) 
 
-- Kotlin
-- Jetpack Compose
-- Android SDK
-- Android Studio
+1️⃣ Kotlin
 
-Also can build for the following platforms - Android Wear, Android TV, and Android Auto
+2️⃣ Jetpack Compose
+
+3️⃣ Android SDK
+
+4️⃣ Android Studio
+
+Can build for Android, Android Wear, Android TV, and Android Auto
 
 <br>
 
-## Cross-Platform 
+## Cross-Platform (Both iOS and Android on 1 Codebase)
 
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev) 
 
-- Dart
-- Flutter UI
-- Flutter SDK
-- Flutter
+1️⃣ Dart
 
-Can be build for the following platforms - Android, iOS and Embedded Devices, Web and Desktop Applications
+2️⃣ Flutter UI
+
+3️⃣ Flutter SDK
+
+4️⃣ Flutter
+
+Can build for Android, iOS and Embedded Devices and Web and Desktop Applications
